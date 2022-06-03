@@ -38,7 +38,7 @@
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-## 📊 Stats
+## Stats 📊
 
 ![Darik’s Stats](https://github-readme-stats.vercel.app/api?username=darikmohammed&show_icons=true)
 ![Darik's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darikmohammed&theme=blue-green)
