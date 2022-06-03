@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Darik!
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 ## More about my self
 
 <h3>I am a passionate full-stack software developer currently enrolled at Microverse. I enjoy working on all kinds of tech.</h3>
