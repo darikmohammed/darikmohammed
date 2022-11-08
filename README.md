@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=darikmohammed&color=green)
 ## More about my self
 
-<h3>I am a passionate full-stack software developer currently enrolled at Microverse. I enjoy working on all kinds of tech.</h3>
+<h3>I am a passionate full-stack software developer. I enjoy working on all kinds of tech.</h3>
 
 - I’m currently available for new opportunities
 
